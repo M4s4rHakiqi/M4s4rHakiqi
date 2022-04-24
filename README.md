@@ -35,7 +35,7 @@
 
 ### Discord Activity
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/462936117596127232)](https://discord.com/users/787681393060741171)
+[![Discord Presence](https://lanyard.cnrad.dev/api/787681393060741171)](https://discord.com/users/787681393060741171)
 
 ---
 
