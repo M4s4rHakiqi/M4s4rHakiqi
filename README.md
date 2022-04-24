@@ -5,14 +5,14 @@
 - ### Tech I'm [Proficient]() With:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,bots,firebase,html,js,mongodb,nextjs,nodejs,react,tailwind,ts,ps,sass,vite" />
+    <img src="https://skillicons.dev/icons?i=css,bots,firebase,html,js,mongodb,nextjs,nodejs,react,tailwind,ts,ps,sass" />
   </a>
 </p>
 
 - ### Tech I'm [Familiar]() With:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java" />
+    <img src="https://skillicons.dev/icons?i=py,java,vue,swift" />
   </a>
 </p>
 
