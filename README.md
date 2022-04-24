@@ -2,6 +2,8 @@
 
 ### I'm a Full Stack Developer, Designer. I'm interested in development. I work on random projects in my free time, mostly web development.
 
+
+                                    <h1> This is my Tech Stack</h1>
 - ### Tech I'm [Proficient]() With:
 <p align="center">
   <a href="https://skillicons.dev">
