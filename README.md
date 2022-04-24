@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, Im Masar 👋
 
-I'm Masar - I'm a Full Stack Developer, Designer. I'm interested in development. I work on random projects in my free time, mostly web development.
+### I'm a Full Stack Developer, Designer. I'm interested in development. I work on random projects in my free time, mostly web development.
 
 <p align="center">
   <a href="https://skillicons.dev">
