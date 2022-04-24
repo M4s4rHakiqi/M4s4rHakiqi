@@ -3,7 +3,7 @@
 ### I'm a Full Stack Developer, Designer. I'm interested in development. I work on random projects in my free time, mostly web development.
 
 
-                                                 This is my Tech Stack
+
 - ### Tech I'm [Proficient]() With:
 <p align="center">
   <a href="https://skillicons.dev">
