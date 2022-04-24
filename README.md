@@ -13,6 +13,6 @@
 ---
 
 ### Get in touch:
-<a href="https://discord.gg/UBujmK33">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
-  </a>
+<a href="https://discord.com/users/787681393060741171">
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
+</a>
