@@ -33,6 +33,12 @@
 
 ---
 
+### Discord Activity
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/787681393060741171)](https://discord.com/users/462936117596127232)
+
+---
+
 - ### Github Stats ⚡
 
 <details>
