@@ -9,7 +9,7 @@
   </a>
 </p>
 
-- ### Tech I'm Familiar With:
+- ### Tech I'm [Familiar]() With:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java" />
