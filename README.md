@@ -30,3 +30,9 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/#gh-dark-mode-only)
+
+<details>
+  <summary>Most Used Languages ⚡</summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4s4rHakiqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</details>
