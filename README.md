@@ -5,7 +5,7 @@
 - ### Tech I'm [Proficient]() With:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,bots,firebase,html,js,mongodb,nextjs,nodejs,react,tailwind,ts,ps,sass" />
+    <img src="https://skillicons.dev/icons?i=css,bots,firebase,html,js,mongodb,nextjs,nodejs,react,tailwind,ts,ps,sass,vite" />
   </a>
 </p>
 
