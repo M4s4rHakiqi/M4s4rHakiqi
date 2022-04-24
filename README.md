@@ -18,7 +18,7 @@
   </a>
 </p>
 
---- Get
+---
 
 - ### Get in touch:   
 
@@ -30,6 +30,10 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/#gh-dark-mode-only)
+
+---
+
+- ### Github Stats ⚡
 
 <details>
   <summary>Most Used Languages ⚡</summary>
