@@ -31,7 +31,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/#gh-dark-mode-only)
 
----
+<!-- --- -->
 
 <!-- - ### Discord Activity
 
